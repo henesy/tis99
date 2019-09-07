@@ -2,7 +2,7 @@
 
 BIN = /bin/games
 
-TARG = tis100
+TARG = tis99
 
 OFILES = main.$O \
 

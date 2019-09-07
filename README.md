@@ -1,4 +1,4 @@
-# games/tis100
+# games/tis99
 
 TIS-100 implementation for Plan9.
 
@@ -14,3 +14,6 @@ TIS-100 implementation for Plan9.
 
 	% games/tis100 file.asm < inputs.txt
 
+## References
+
+	
