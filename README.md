@@ -14,9 +14,10 @@ The goal is to be able to execute TIS-100 assembly and emit the same instruction
 
 ## Usage
 
-	% games/tis99 file.asm < inputs.txt
+	% games/tis99 file.asm inputs0 inputs1 ...
 
 ## References
 
 - https://alandesmet.github.io/TIS-100-Hackers-Guide
 - https://tis100.complexity.nl/links.html
+- https://github.com/kk4ead/tis-100
