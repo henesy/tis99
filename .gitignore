@@ -1,0 +1,13 @@
+*.[8qkv5967o]
+*.acid
+[8qkv5967o].out
+*.ndb
+*.ps
+dumps/*
+*.aux
+*.dvi
+*.log
+*.pdf
+*.synctex.gz
+*.tex
+*.sty
