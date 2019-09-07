@@ -14,7 +14,7 @@ The goal is to be able to execute TIS-100 assembly and emit the same instruction
 
 ## Usage
 
-	% games/tis100 file.asm < inputs.txt
+	% games/tis99 file.asm < inputs.txt
 
 ## References
 
