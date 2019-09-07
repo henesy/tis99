@@ -1,0 +1,20 @@
+# Specification for TIS-99 asm
+
+Node numbering is performed left to right top to bottom starting from 0.
+
+12 nodes by default. 
+
+15 instructions per node.
+
+14 opcodes total. 
+
+Opcodes can have [0-2] arguments each. 
+
+## Syntax
+
+`@N` - denotes a block of instructios for node #N.
+
+`TAG:` - denotes a tag of name `TAG`
+
+`#` - denotes a single line comment
+
